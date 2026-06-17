@@ -3,7 +3,6 @@
 [![Build Status](https://github.com/msakai/bytestring-encoding/workflows/build/badge.svg)](https://github.com/msakai/bytestring-encoding/actions)
 [![Coverage Status](https://coveralls.io/repos/github/msakai/bytestring-encoding/badge.svg?branch=master)](https://coveralls.io/github/msakai/bytestring-encoding?branch=master)
 [![Hackage](https://img.shields.io/hackage/v/bytestring-encoding.svg)](https://hackage.haskell.org/package/bytestring-encoding)
-[![Hackage Deps](https://img.shields.io/hackage-deps/v/bytestring-encoding.svg)](https://packdeps.haskellers.com/feed?needle=bytestring-encoding)
 [![License: BSD-3-Clause](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 This library provides converter between `ByteString` and `Text` based
